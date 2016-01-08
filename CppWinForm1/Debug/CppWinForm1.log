@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  CppWinForm1.vcxproj -> C:\Users\admin\Documents\Software\CppWinForm1\Debug\CppWinForm1.exe
+  Running Code Analysis...
+MSBUILD : warning CA1016: Microsoft.Design : Add an AssemblyVersion attribute to 'CppWinForm1.exe'.
+  Code Analysis Complete -- 0 error(s), 1 warning(s)
