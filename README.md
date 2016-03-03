@@ -11,5 +11,5 @@ Frog Form is a native Visual C++.NET program for Windows 10.
  ## Some tips on managed code for C++
  - `new` keyword is replaced with `gcnew`
  - `'some string'` is prefixed like `L'some string'` for display text
- - `object.method()` is `object->method()`.. same with object properties
+ - `object.function()` is `object->function()` and `object.property` is `object->property`
  
